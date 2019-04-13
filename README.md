@@ -2,7 +2,7 @@
 ## N_Queens Problem using Genetic Algorithm
 ### Problem Statement
 The N-Queens problem is a classic problem that is used to determine the position of queens that can be spread on the chess board such that no two queens can kill each other. The problem can be solved in many possible ways including backtracking, branch and bound, etc.   
-Here in our project we try to solve N-Queens using Gentic algorithm .The general running time of N queens problem is O(n!) and hence we have tried to reduce this using our genetic algorithm approach.
+Here in our project we try to solve N-Queens using Genetic algorithm .The general running time of N queens problem is O(n!) and hence we have tried to reduce this using our genetic algorithm approach.
 
 ### Genetic Algorithm
 
