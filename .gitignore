@@ -19,7 +19,7 @@
 *.tar.gz
 *.rar
 
-#Netbeans 
+#  Netbeans 
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
