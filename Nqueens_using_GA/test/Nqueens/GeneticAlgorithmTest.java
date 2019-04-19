@@ -42,6 +42,151 @@ public class GeneticAlgorithmTest {
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
-    // @Test
-    // public void hello() {}
+    //******************************************************************************************
+    //    Comment This while running main file
+//    Uncomment rand.setSeed(50) in GeneticAlgorithm->GeneticRun while running this to check Mutation
+
+//    @Test
+//    public void testMutation1() {
+//
+//        RunNQueens tester = new RunNQueens();
+//
+//        tester.test(8, 0.001, 1000);
+//        int result1 = 40;
+//        int result2 = tester.galg.getMutations();
+//
+//        assertEquals(result1, result2);
+//
+//    }
+////    
+//
+//    @Test
+//    public void testMutation2() {
+//
+//        RunNQueens test = new RunNQueens();
+//
+//        test.test(8, 0.001, 2000);
+//        int result1 = 40;
+//        int result2 = test.galg.getMutations();
+//
+//        assertEquals(result1, result2);
+//
+//    }
+//  
+//
+//    @Test
+//    public void testMutation3() {
+//
+//        RunNQueens test = new RunNQueens();
+//
+//        test.test(8, 0.001, 3000);
+//        int result1 = 40;
+//        int result2 = test.galg.getMutations();
+//
+//        assertEquals(result1, result2);
+//
+//    }
+//
+//    @Test
+//    public void testMutation4() {
+//
+//        RunNQueens test = new RunNQueens();
+//
+//        test.test(8, 0.001, 4000);
+//        int result1 = 40;
+//        int result2 = test.galg.getMutations();
+//
+//        assertEquals(result1, result2);
+//
+//    }
+//
+//    @Test
+//    public void testMutation5() {
+//
+//        RunNQueens test = new RunNQueens();
+//
+//        test.test(8, 0.001, 5000);
+//        int result1 = 40;
+//        int result2 = test.galg.getMutations();
+//
+//        assertEquals(result1, result2);
+//
+//    }
+////********************************************************************************
+//
+//    @Test
+//    public void testChooseOffspring() {
+//
+//        RunNQueens test = new RunNQueens();
+//
+//        test.test(8, 0.001, 3000);
+//        int result1 = 600;
+//        int result2 = test.galg.getCount();
+//
+//        assertEquals(result1, result2);
+//
+//    }
+//************************************************************************************
+//
+    @Test
+    public void testRunGA1() {
+        System.out.println("runGA");
+        RunNQueens test = new RunNQueens();
+        test.test(4, 0.1, 8);
+        boolean result1 = true;
+        boolean result2 = test.galg.GeneticRun();
+
+        assertEquals(result1, result2);
+
+    }
+
+    @Test
+    public void testRunGA2() {
+        System.out.println("runGA");
+        RunNQueens test = new RunNQueens();
+        test.test(4, 0.15, 20);
+        boolean expResult = true;
+        boolean result = test.galg.GeneticRun();
+
+        assertEquals(expResult, result);
+
+    }
+
+    @Test
+    public void testRunGA3() {
+        System.out.println("runGA");
+        RunNQueens test = new RunNQueens();
+        test.test(4, 0.02, 10);
+        boolean expResult = true;
+        boolean result = test.galg.GeneticRun();
+
+        assertEquals(expResult, result);
+
+    }
+
+    @Test
+    public void testRunGA4() {
+        System.out.println("runGA");
+        RunNQueens test = new RunNQueens();
+
+        test.test(4, 0.001, 15);
+        boolean expResult = true;
+        boolean result = test.galg.GeneticRun();
+
+        assertEquals(expResult, result);
+
+    }
+
+    @Test
+    public void testRunGA5() {
+        System.out.println("runGA");
+        RunNQueens test = new RunNQueens();
+
+        test.test(4, 0.1, 19);
+        boolean expResult = true;
+        boolean result = test.galg.GeneticRun();
+
+        assertEquals(expResult, result);
+
+    }
 }

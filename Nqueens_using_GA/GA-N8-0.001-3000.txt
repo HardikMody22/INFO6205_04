@@ -1,0 +1,768 @@
+Genetic Algorithm
+Parameters
+Maximum Length divided by Number 8
+Starting Population of chromosomes: 40
+Maximum  epochs: 3000
+Probability of mating of chromosome: 0.7
+Rate of Mutation between chromosomes: 0.001
+Minimum number of parent selected: 10
+Maximum number of parent selected: 30
+Offspring generated per generation: 20
+Number of minimum shuffle done: 8
+Number of maximum shuffle done: 20
+
+Cycle: 1
+Running Time: 1964555
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 2
+Running Time: 1918490
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 3
+Running Time: 60754324
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 4
+Running Time: 2346667
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 5
+Running Time: 2066502
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 6
+Running Time: 2151458
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 7
+Running Time: 3196602
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 8
+Running Time: 2587942
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 9
+Running Time: 1929817
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 10
+Running Time: 2021947
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 11
+Running Time: 1933971
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 12
+Running Time: 1965688
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 13
+Running Time: 93099062
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 14
+Running Time: 2116342
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 15
+Running Time: 2695930
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 16
+Running Time: 2771824
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 17
+Running Time: 3369535
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 18
+Running Time: 2585298
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 19
+Running Time: 2794101
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 20
+Running Time: 2804673
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 21
+Running Time: 2808826
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 22
+Running Time: 89409716
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 23
+Running Time: 2938337
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 24
+Running Time: 2567174
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 25
+Running Time: 2348933
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 26
+Running Time: 2546785
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 27
+Running Time: 2350820
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 28
+Running Time: 2340626
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 29
+Running Time: 2466738
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 30
+Running Time: 1991363
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 31
+Running Time: 2041582
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 32
+Running Time: 92194754
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 33
+Running Time: 2262467
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 34
+Running Time: 2267753
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 35
+Running Time: 2104260
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 36
+Running Time: 3246821
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 37
+Running Time: 2375741
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 38
+Running Time: 1929817
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 39
+Running Time: 2031764
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 40
+Running Time: 2083115
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 41
+Running Time: 1973240
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 42
+Running Time: 92971439
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 43
+Running Time: 3248709
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 44
+Running Time: 3574561
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 45
+Running Time: 3191694
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 46
+Running Time: 2260201
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 47
+Running Time: 1924531
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 48
+Running Time: 1917734
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 49
+Running Time: 1917735
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Cycle: 50
+Running Time: 2240945
+Target of Epoch hit: 22
+The new population size generated: 640
+
+X . . . . . . . 
+. . . . . X . . 
+. . . . . . . X 
+. . X . . . . . 
+. . . . . . X . 
+. . . X . . . . 
+. X . . . . . . 
+. . . . X . . . 
+
+Summary
+
+1964555
+1918490
+60754324
+2346667
+2066502
+2151458
+3196602
+2587942
+1929817
+2021947
+1933971
+1965688
+93099062
+2116342
+2695930
+2771824
+3369535
+2585298
+2794101
+2804673
+2808826
+89409716
+2938337
+2567174
+2348933
+2546785
+2350820
+2340626
+2466738
+1991363
+2041582
+92194754
+2262467
+2267753
+2104260
+3246821
+2375741
+1929817
+2031764
+2083115
+1973240
+92971439
+3248709
+3574561
+3191694
+2260201
+1924531
+1917734
+1917735
+2240945
+697668335466541
+697668874352684
+538886143

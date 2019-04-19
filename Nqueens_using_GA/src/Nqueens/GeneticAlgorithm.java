@@ -1,5 +1,6 @@
-package GeneticAlgorithm;
+package Nqueens;
 
+import Nqueens.Chromosome;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
@@ -50,7 +51,7 @@ public class GeneticAlgorithm {
         Populations = new ArrayList<Chromosome>();
         Result = new ArrayList<Chromosome>();
         random = new Random();
-        random.setSeed(50);
+        //random.setSeed(50);
         next = 0;
         count = 0;
         mutations = 0;

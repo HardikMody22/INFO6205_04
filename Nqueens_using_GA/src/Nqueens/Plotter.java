@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GeneticAlgorithm;
+package Nqueens;
 
+import Nqueens.Chromosome;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
