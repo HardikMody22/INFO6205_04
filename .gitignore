@@ -20,6 +20,7 @@
 *.rar
 
 #  Netbeans 
+#ignore the private.properties file
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
