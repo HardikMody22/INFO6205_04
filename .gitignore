@@ -19,9 +19,11 @@
 *.tar.gz
 *.rar
 
+
 #  Netbeans 
 #ignore the private.properties file
 **/nbproject/private/
+*/JAR Files
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
 build/
